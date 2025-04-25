@@ -9,14 +9,16 @@ kaise ho
 
 import sys as s
 
-def pridoc():
-    '''
-    It is Printing Funtion
-    '''
-    a = 5
+# def pridoc():
+#     '''
+#     It is Printing Funtion
+#     '''
+#     a = 5
 
 
-print(pridoc.__doc__)
+# print(pridoc.__doc__)
+
+print(input.__doc__)
 
 #Output  It is Printing Funtion
 
